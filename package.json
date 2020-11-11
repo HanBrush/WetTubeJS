@@ -1,0 +1,11 @@
+{
+  "name": "wettube",
+  "version": "1.0.0",
+  "description": "Creating WetTube with VanillaJS and NodeJS",
+  "main": "index.js",
+  "author": "HanBrush",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
